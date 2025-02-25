@@ -1,0 +1,324 @@
+{
+    "paragraphs": [
+      {
+        "title": "Dreams and Language Structure",
+        "pairs": [
+          {
+            "french": "Tout",
+            "english": "Everyone",
+            "class": "pronom"
+          },
+          {
+            "french": "monde",
+            "english": "world",
+            "class": "nom"
+          },
+          {
+            "french": "rêve",
+            "english": "dreams",
+            "class": "verbe"
+          },
+          {
+            "french": "Personne",
+            "english": "No one",
+            "class": "pronom"
+          },
+          {
+            "french": "histoires",
+            "english": "stories",
+            "class": "nom"
+          },
+          {
+            "french": "tête",
+            "english": "head",
+            "class": "nom"
+          },
+          {
+            "french": "dormons",
+            "english": "sleep",
+            "class": "verbe"
+          }
+        ]
+      },
+      {
+        "title": "Science of Dreams",
+        "pairs": [
+          {
+            "french": "savants",
+            "english": "scientists",
+            "class": "nom"
+          },
+          {
+            "french": "sommeil",
+            "english": "sleep",
+            "class": "nom"
+          },
+          {
+            "french": "parties",
+            "english": "parts",
+            "class": "nom"
+          },
+          {
+            "french": "profond",
+            "english": "deep",
+            "class": "adjectif"
+          },
+          {
+            "french": "paradoxal",
+            "english": "paradoxical",
+            "class": "adjectif"
+          },
+          {
+            "french": "minutes",
+            "english": "minutes",
+            "class": "nom"
+          },
+          {
+            "french": "dure",
+            "english": "lasts",
+            "class": "verbe"
+          }
+        ]
+      },
+      {
+        "title": "Dreams and Age",
+        "pairs": [
+          {
+            "french": "jeune",
+            "english": "young",
+            "class": "adjectif"
+          },
+          {
+            "french": "bébés",
+            "english": "babies",
+            "class": "nom"
+          },
+          {
+            "french": "heures",
+            "english": "hours",
+            "class": "nom"
+          },
+          {
+            "french": "dorment",
+            "english": "sleep",
+            "class": "verbe"
+          },
+          {
+            "french": "enfants",
+            "english": "children",
+            "class": "nom"
+          },
+          {
+            "french": "sommeil",
+            "english": "sleep",
+            "class": "nom"
+          },
+          {
+            "french": "vieillissons",
+            "english": "get older",
+            "class": "verbe"
+          }
+        ]
+      },
+      {
+        "title": "Dream Mechanics",
+        "pairs": [
+          {
+            "french": "yeux",
+            "english": "eyes",
+            "class": "nom"
+          },
+          {
+            "french": "bougent",
+            "english": "move",
+            "class": "verbe"
+          },
+          {
+            "french": "corps",
+            "english": "body",
+            "class": "nom"
+          },
+          {
+            "french": "engourdi",
+            "english": "numb",
+            "class": "adjectif"
+          },
+          {
+            "french": "paralysé",
+            "english": "paralyzed",
+            "class": "adjectif"
+          },
+          {
+            "french": "cerveau",
+            "english": "brain",
+            "class": "nom"
+          },
+          {
+            "french": "ondes",
+            "english": "waves",
+            "class": "nom"
+          }
+        ]
+      },
+      {
+        "title": "Content of Dreams",
+        "pairs": [
+          {
+            "french": "choses",
+            "english": "things",
+            "class": "nom"
+          },
+          {
+            "french": "touchés",
+            "english": "affected",
+            "class": "verbe"
+          },
+          {
+            "french": "cerveau",
+            "english": "brain",
+            "class": "nom"
+          },
+          {
+            "french": "enregistrées",
+            "english": "recorded",
+            "class": "verbe"
+          },
+          {
+            "french": "dispute",
+            "english": "argument",
+            "class": "nom"
+          },
+          {
+            "french": "travailler",
+            "english": "work",
+            "class": "verbe"
+          },
+          {
+            "french": "résoudre",
+            "english": "solve",
+            "class": "verbe"
+          }
+        ]
+      },
+      {
+        "title": "Purpose of Dreams",
+        "pairs": [
+          {
+            "french": "nuit",
+            "english": "night",
+            "class": "nom"
+          },
+          {
+            "french": "conseil",
+            "english": "advice",
+            "class": "nom"
+          },
+          {
+            "french": "rêves",
+            "english": "dreams",
+            "class": "nom"
+          },
+          {
+            "french": "solutions",
+            "english": "solutions",
+            "class": "nom"
+          },
+          {
+            "french": "souvenirs",
+            "english": "memories",
+            "class": "nom"
+          },
+          {
+            "french": "apprentissage",
+            "english": "learning",
+            "class": "nom"
+          },
+          {
+            "french": "jeunes",
+            "english": "young people",
+            "class": "nom"
+          }
+        ]
+      },
+      {
+        "title": "Dreams and Memory",
+        "pairs": [
+          {
+            "french": "informations",
+            "english": "information",
+            "class": "nom"
+          },
+          {
+            "french": "reçues",
+            "english": "received",
+            "class": "verbe"
+          },
+          {
+            "french": "synthèse",
+            "english": "synthesis",
+            "class": "nom"
+          },
+          {
+            "french": "yeux",
+            "english": "eyes",
+            "class": "nom"
+          },
+          {
+            "french": "fermés",
+            "english": "closed",
+            "class": "adjectif"
+          },
+          {
+            "french": "explique",
+            "english": "explains",
+            "class": "verbe"
+          },
+          {
+            "french": "fait",
+            "english": "fact",
+            "class": "nom"
+          }
+        ]
+      },
+      {
+        "title": "Animals and Dreams",
+        "pairs": [
+          {
+            "french": "animaux",
+            "english": "animals",
+            "class": "nom"
+          },
+          {
+            "french": "poissons",
+            "english": "fish",
+            "class": "nom"
+          },
+          {
+            "french": "batraciens",
+            "english": "amphibians",
+            "class": "nom"
+          },
+          {
+            "french": "chat",
+            "english": "cat",
+            "class": "nom"
+          },
+          {
+            "french": "mécanisme",
+            "english": "mechanism",
+            "class": "nom"
+          },
+          {
+            "french": "survie",
+            "english": "survival",
+            "class": "nom"
+          },
+          {
+            "french": "écureuil",
+            "english": "squirrel",
+            "class": "nom"
+          }
+        ]
+      }
+    ]
+  }

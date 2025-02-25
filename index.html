@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dream Language Matcher</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <button id="dark-mode-toggle">🌙 Dark Mode</button>
+        <a href="word.html" id="word-page-button">🔤 Go to Word Matching</a>
+        <h1>Sentence Matcher</h1>
+        <div class="controls">
+            <select id="paragraph-select">
+                <option value="-1">Choose a paragraph</option>
+            </select>
+            <button id="restart">↻ Restart</button>
+            <button id="next">⇨ Next Paragraph</button>
+        </div>
+        <div class="score">Matches: <span id="score">0</span>/<span id="total"></span></div>
+    </header>
+
+    <div class="container">
+        <div class="column" id="french-column"></div>
+        <div class="column" id="english-column"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
